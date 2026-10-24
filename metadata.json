@@ -1,0 +1,6 @@
+{
+  "name": "CryptoMind AI Scanner",
+  "description": "An AI-powered cryptocurrency market scanner that analyzes market data to predict short-term trends using Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
